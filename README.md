@@ -39,3 +39,6 @@ Use the Nuvolaris Icon to execute the functions, or use the following commands f
 - `login` (or `nuv ide login`) to login again
 
 Check `nuv ide` subcommand for more options.
+
+https://curly-train-6wxv7vgjrqxf5xqv-8080.app.github.dev/api/my/examples/hello
+

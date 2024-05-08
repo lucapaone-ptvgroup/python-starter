@@ -4,5 +4,5 @@
 def main(args):
     print("hello")
     name = args.get("name", "world")
-    greeting = "Hello " + name + "!"
+    greeting = "Hello CHANGED" + name + "!"
     return {"body": greeting}
